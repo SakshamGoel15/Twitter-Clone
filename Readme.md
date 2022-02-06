@@ -1,4 +1,4 @@
-## REPORT: Project 4 (Part 2)
+## Distributed operating system principles : Twitter-Clone (Part 2)
 ## Group Members 
 - Ojasvi, Fnu (UFID: 8747-2335)
 - Goel, Saksham (UFID: 9279-2975)
